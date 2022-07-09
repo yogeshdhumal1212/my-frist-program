@@ -1,2 +1,1 @@
-# my-frist-program
-hellow
+Hellow word
